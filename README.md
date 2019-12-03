@@ -1,1 +1,1 @@
-# stanford-psychology-research-causual-inference
+# Stanford Psychology Research Causual Inference
