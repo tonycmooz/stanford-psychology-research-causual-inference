@@ -1,1 +1,1 @@
-# Stanford Psychology Research Causual Inference
+# Stanford Psychology Research on Causual Inference
